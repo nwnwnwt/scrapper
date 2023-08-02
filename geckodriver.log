@@ -1,0 +1,17 @@
+1683220139560	geckodriver	INFO	Listening on 127.0.0.1:60171
+1683220142622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jai\\AppData\\Local\\Temp\\rust_mozprofile0t2lN1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683220143635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683220143641	Marionette	INFO	Listening on port 60182
+Read port: 60182
+WebDriver BiDi listening on ws://127.0.0.1:60172
+1683220143787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jai\\AppData\\Local\\Temp\\rust_mozprofile0t2lN1\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60172/devtools/browser/156cb576-0fbe-4122-9919-ec9ff86c5aca
+JavaScript warning: https://static.licdn.com/sc/h/30jrn34di73jzxi1dub85zo63, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/30jrn34di73jzxi1dub85zo63, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683221166188	Marionette	INFO	Stopped listening on port 60182
+Dynamically enable window occlusion 1

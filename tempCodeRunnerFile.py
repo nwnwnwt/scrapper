@@ -1,0 +1,1 @@
+df = pd.DataFrame(columns=['company_name','job_details','location','job_profile'])
